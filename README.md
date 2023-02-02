@@ -97,7 +97,7 @@
 | Project Demo                                                                                                    | Libraries and Technologies I use | Project Preview          |
 | :-------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
 | [Vanilla JS Todo App](https://haliltuzcu.github.io/to-do/) <h3>[Repo](https://haliltuzcu.github.io/to-do/)</h3> | Vanilla JS, PureCSS              | ![todo](./Animation.gif) |
-| [Vanilla JS Todo App](https://haliltuzcu.github.io/bootstrap/) <h3>[Repo](https://haliltuzcu.github.io/bootstrap/)</h3> | Vanilla JS, PureCSS              | ![todo](https://github.com/haliltuzcu/bootstrap/blob/main/img/Animation.gif) |
+| [Boostrap web page](https://haliltuzcu.github.io/bootstrap/) <h3>[Repo](https://haliltuzcu.github.io/bootstrap/)</h3> | Boostrap              | ![boostarp](https://github.com/haliltuzcu/bootstrap/blob/main/img/Animation.gif) |
 
 
 <br>
