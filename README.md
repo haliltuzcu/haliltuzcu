@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
+<img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" align="right" width="500"></br>
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Halil
 
