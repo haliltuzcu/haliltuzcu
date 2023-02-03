@@ -1,6 +1,6 @@
 <img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" align="right" width="440"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Halil
+## 👨‍💻👋🏻 Hi there, I'm Halil
 
 <font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
 </br>
