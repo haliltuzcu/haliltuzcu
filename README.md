@@ -1,4 +1,4 @@
-<img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" align="right" width="500"></br>
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="right" width="500"></br>
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Halil
 
