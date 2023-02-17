@@ -96,7 +96,7 @@
 
 | Project Demo                                                                                                    | Libraries and Technologies I use | Project Preview          |
 | :-------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
-| [React JS githup_search_user](https://sweet-daffodil-1eeeb9.netlify.app/) <h3>[Repo](solution)</h3> | React JS, PureCSS  | ![HOROSCOPE(https://github.com/haliltuzcu/solution/blob/main/Animation.gif) |
+
 | [Vanilla JS githup_search_user](https://haliltuzcu.github.io/githup_search_user/) <h3>[Repo](https://haliltuzcu.github.io/githup_search_user/)</h3> | Vanilla JS, PureCSS              | ![todo](https://github.com/haliltuzcu/githup_search_user/blob/main/Animation.gif) |
 | [Vanilla JS Todo App](https://haliltuzcu.github.io/to-do/) <h3>[Repo](https://haliltuzcu.github.io/to-do/)</h3> | Vanilla JS, PureCSS              | ![todo](./Animation.gif) |
 | [Boostrap web page](https://haliltuzcu.github.io/bootstrap/) <h3>[Repo](https://haliltuzcu.github.io/bootstrap/)</h3> | Boostrap              | ![boostarp](https://github.com/haliltuzcu/bootstrap/blob/main/img/Animation.gif) |
