@@ -96,8 +96,8 @@
 
 | Project Demo                                                                                                    | Libraries and Technologies I use | Project Preview          |
 | :-------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
-| [NBA Legends](https://nba-lagend.netlify.app/) <h3>[Repo](https://nba-lagend.netlify.app/)</h3> | REACT, Boostrap              | ![NBA](https://github.com/haliltuzcu/nba-legends/blob/main/Animation.gif) |
-| [Vanilla JS githup_search_user](https://haliltuzcu.github.io/githup_search_user/) <h3>[Repo](https://haliltuzcu.github.io/githup_search_user/)</h3> | Vanilla JS, PureCSS              | ![todo](https://github.com/haliltuzcu/githup_search_user/blob/main/Animation.gif) |
+| [NBA Legends](https://nba-lagend.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT, Boostrap              | ![NBA](https://github.com/haliltuzcu/nba-legends/blob/main/Animation.gif) |
+| [Vanilla JS githup_search_user](https://haliltuzcu.github.io/githup_search_user/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | Vanilla JS, PureCSS              | ![todo](https://github.com/haliltuzcu/githup_search_user/blob/main/Animation.gif) |
 | [Vanilla JS Todo App](https://haliltuzcu.github.io/to-do/) <h3>[Repo](https://haliltuzcu.github.io/to-do/)</h3> | Vanilla JS, PureCSS              | ![todo](./Animation.gif) |
 | [Boostrap web page](https://haliltuzcu.github.io/bootstrap/) <h3>[Repo](https://haliltuzcu.github.io/bootstrap/)</h3> | Boostrap              | ![boostarp](https://github.com/haliltuzcu/bootstrap/blob/main/img/Animation.gif) |
 | [Vanilla JS weather_app](https://haliltuzcu.github.io/weather_app/) <h3>[Repo](https://haliltuzcu.github.io/weather_app/)</h3> | weather_app              | ![js](https://github.com/haliltuzcu/weather_app/blob/main/img/Animation.gif) |
