@@ -96,7 +96,7 @@
 
 | Project Demo                                                                                                    | Libraries and Technologies I use | Project Preview          |
 | :-------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
-| [Books Api](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT,Boostrap,Api,Styled Components| ![Library](https://github.com/haliltuzcu/clarus-library-inclass/blob/main/Animation.gif) |
+| [Books Api](https://ht-books-api.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT,Boostrap,Api,Styled Components| ![Library](https://github.com/haliltuzcu/clarus-library-inclass/blob/main/Animation.gif) |
 | [Appointment App](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT, Boostrap,Data            | ![Appointment](https://github.com/haliltuzcu/appoinment-project/blob/main/Animation.gif) |
 | [NBA Legends](https://nba-lagend.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT, Boostrap              | ![NBA](https://github.com/haliltuzcu/nba-legends/blob/main/Animation.gif) |
 | [Vanilla JS githup_search_user](https://haliltuzcu.github.io/githup_search_user/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | Vanilla JS, PureCSS              | ![todo](https://github.com/haliltuzcu/githup_search_user/blob/main/Animation.gif) |
