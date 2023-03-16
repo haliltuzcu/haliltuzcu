@@ -96,6 +96,7 @@
 
 | Project Demo                                                                                                    | Libraries and Technologies I use | Project Preview          |
 | :-------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
+| [Movie app](https://movie-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT,Tailwind,Api,Firebase,Contex| ![Library](https://github.com/haliltuzcu/movie-app-project/blob/main/Animation.gif) |
 | [Books Api](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT,Boostrap,Api,Styled Components| ![Library](https://github.com/haliltuzcu/clarus-library-inclass/blob/main/Animation.gif) |
 | [Appointment App](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT, Boostrap,Data            | ![Appointment](https://github.com/haliltuzcu/appoinment-project/blob/main/Animation.gif) |
 | [NBA Legends](https://nba-lagend.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT, Boostrap              | ![NBA](https://github.com/haliltuzcu/nba-legends/blob/main/Animation.gif) |
