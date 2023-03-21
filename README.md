@@ -94,17 +94,18 @@
 
 ###
 
-| Project Demo                                                                                                    | Libraries and Technologies I use | Project Preview          |
-| :-------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
-| [Movie app](https://movie-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT,Tailwind,Api,Firebase,Contex| ![Library](https://github.com/haliltuzcu/movie-app-project/blob/main/Animation.gif) |
-| [Books Api](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT,Boostrap,Api,Styled Components| ![Library](https://github.com/haliltuzcu/clarus-library-inclass/blob/main/Animation.gif) |
-| [Appointment App](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT, Boostrap,Data            | ![Appointment](https://github.com/haliltuzcu/appoinment-project/blob/main/Animation.gif) |
-| [NBA Legends](https://nba-lagend.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | REACT, Boostrap              | ![NBA](https://github.com/haliltuzcu/nba-legends/blob/main/Animation.gif) |
-| [Vanilla JS githup_search_user](https://haliltuzcu.github.io/githup_search_user/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | Vanilla JS, PureCSS              | ![todo](https://github.com/haliltuzcu/githup_search_user/blob/main/Animation.gif) |
-| [Vanilla JS Todo App](https://haliltuzcu.github.io/to-do/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | Vanilla JS, PureCSS              | ![todo](./Animation.gif) |
-| [Boostrap web page](https://haliltuzcu.github.io/bootstrap/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | Boostrap              | ![boostarp](https://github.com/haliltuzcu/bootstrap/blob/main/img/Animation.gif) |
-| [Vanilla JS weather_app](https://haliltuzcu.github.io/weather_app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | weather_app              | ![js](https://github.com/haliltuzcu/weather_app/blob/main/img/Animation.gif) |
-| [Vanilla JS Digital_Clock_App](https://haliltuzcu.github.io/Digital_Clock_App/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | Digital_Clock_App              | ![js](https://github.com/haliltuzcu/Digital_Clock_App/blob/main/Animation.gif) |
+| Project Demo                                                                                                                                      | Libraries and Technologies I use     | Project Preview                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------------------------- |
+| [Redux Toolkit ](https://redux-toolkit-ht.netlify.app/login) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>                      | REACT,Redux,Api,Toolkit              | ![Library](https://github.com/haliltuzcu/redux-project/blob/main/Animation.gif)          |
+| [Movie app](https://movie-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>                                    | REACT,Tailwind,Api,Firebase,Contex   | ![Library](https://github.com/haliltuzcu/movie-app-project/blob/main/Animation.gif)      |
+| [Books Api](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>                              | REACT,Boostrap,Api,Styled Components | ![Library](https://github.com/haliltuzcu/clarus-library-inclass/blob/main/Animation.gif) |
+| [Appointment App](https://appointment-app-ht.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>                        | REACT, Boostrap,Data                 | ![Appointment](https://github.com/haliltuzcu/appoinment-project/blob/main/Animation.gif) |
+| [NBA Legends](https://nba-lagend.netlify.app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>                                    | REACT, Boostrap                      | ![NBA](https://github.com/haliltuzcu/nba-legends/blob/main/Animation.gif)                |
+| [Vanilla JS githup_search_user](https://haliltuzcu.github.io/githup_search_user/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3> | Vanilla JS, PureCSS                  | ![todo](https://github.com/haliltuzcu/githup_search_user/blob/main/Animation.gif)        |
+| [Vanilla JS Todo App](https://haliltuzcu.github.io/to-do/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>                        | Vanilla JS, PureCSS                  | ![todo](./Animation.gif)                                                                 |
+| [Boostrap web page](https://haliltuzcu.github.io/bootstrap/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>                      | Boostrap                             | ![boostarp](https://github.com/haliltuzcu/bootstrap/blob/main/img/Animation.gif)         |
+| [Vanilla JS weather_app](https://haliltuzcu.github.io/weather_app/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>               | weather_app                          | ![js](https://github.com/haliltuzcu/weather_app/blob/main/img/Animation.gif)             |
+| [Vanilla JS Digital_Clock_App](https://haliltuzcu.github.io/Digital_Clock_App/) <h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>   | Digital_Clock_App                    | ![js](https://github.com/haliltuzcu/Digital_Clock_App/blob/main/Animation.gif)           |
 
 <br>
 
