@@ -9,7 +9,7 @@
 <font color="pink"> 🧐 A new age enthusiast. </font>
 </br>
 <font color="pink">☕ Coffee is how I keep up with code</font>
-<h3> (https://github.com/haliltuzcu?tab=repositories) </h3>
+<h3>[Repo](https://github.com/haliltuzcu?tab=repositories)</h3>
 
 #### 📬 Connect with me:
 
